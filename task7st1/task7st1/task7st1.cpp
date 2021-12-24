@@ -1,8 +1,4 @@
-﻿// 
-// 
-// Условие:
-// 
-//
+
 
 #include <iostream>
 #include<string>
